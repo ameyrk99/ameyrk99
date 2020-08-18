@@ -24,5 +24,4 @@ I am Amey and I am currently Bachelors's at University of Texas at Arlington and
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-blue?style=flat-square&logo=bitbucket)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ameyrk99&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ameyrk99&count_private=true&show_icons=true&include_all_commits=true&hide=prs,issues,contribs)

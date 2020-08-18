@@ -1,11 +1,11 @@
-# Hello, World!
+# Hello, World! :wave:
 
-I am Amey and I am currently Bachelors's at University of Texas at Arlington and majoring in Computer Science.
+I am a senior Bachelor's in Computer Science at University of Texas at Arlington. I like sketching :pencil2: and reading :books: in my free time.
 
 [![Linkedin Badge](https://img.shields.io/badge/-ameyrk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ameyrk/)](https://www.linkedin.com/in/ameyrk/)
 [![Instagram Badge](https://img.shields.io/badge/-ameykhairnar99-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ameykhairnar99/)](https://www.instagram.com/ameykhairnar99/)
 
-## Technologies
+## :gear: Technologies
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

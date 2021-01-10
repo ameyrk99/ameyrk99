@@ -8,4 +8,4 @@
   
   
 - 🎓 Studying Computer Science at University of Texas at Arlington
-- **Current Project:** [Badreads](https://badreads.ameyrk.me)
+- **Current Project:** [yreads](https://yreads.ameyrk.me)

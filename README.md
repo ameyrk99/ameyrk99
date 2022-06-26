@@ -3,7 +3,6 @@
 ## Hello, World! :wave:
 
 [![ameyrk.me](https://img.shields.io/static/v1?label=ameyrk.me&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://ameyrk.me)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=red&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/ameykhairnar99/)
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=blue&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ameyrk/)
   
   

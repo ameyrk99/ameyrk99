@@ -7,4 +7,4 @@
   
   
 - 🎓 Studied Computer Science at University of Texas at Arlington
--  Working at Amazon Robotics as SDE
+- Working at Amazon Robotics as SDE

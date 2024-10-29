@@ -4,5 +4,7 @@
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=blue&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/ameyrk/)
   
   
+- 🎓 Studying Computer Science at Bridgewater State University
+- 🧑‍💻️ Worked at Amazon Robotics as SDE
+- 🖥️ Interned at Lenovo
 - 🎓 Studied Computer Science at University of Texas at Arlington
-- 🧑‍💻️ Working at Amazon Robotics as SDE
